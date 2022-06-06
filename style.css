@@ -142,7 +142,7 @@ footer .box{
     font-size: 18px;
     font-weight: 500;
     color: #F2EFEB ;
-}@media (min-width:60px) and (max-width:1000px){
+}@media (min-width:200px) and (max-width:800px){
     .cab{
         flex-direction: column;
         height: auto;
